@@ -1,0 +1,29 @@
+@media only screen and (min-width: 769px) and (max-width: 1279px){
+
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 992px){
+
+}
+
+@media only screen and (max-width: 768px){
+    #services,
+    #about,
+    #portfolio,
+    #counter{
+        padding: 4rem 1rem;
+    }
+   
+    #home .header-caption h1{
+        transform: translate(5px);
+    }
+}
+
+
+@media screen and (max-width: 992px){
+   #about .col-lg-5{
+    margin-bottom: 2rem;
+   }
+
+}
